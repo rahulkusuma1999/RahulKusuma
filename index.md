@@ -2,6 +2,15 @@
 @def hasmath = true
 @def hascode = true
 
+hello this is Rahul Kusuma
+## table of contents
+\toc
+
+## contact
+## projects
+## github
+
+
 <!--# Franklin syntax sandbox
 
 This page is meant as a sandbox for Franklin Syntax so that you can quickly practice or experience things.
@@ -32,5 +41,5 @@ $$ \varphi(\E[X]) \le \E[\varphi(X)] $$
 
 for $\varphi$ convex.
 -->
-\toc
+
 
