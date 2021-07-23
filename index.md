@@ -2,13 +2,12 @@
 @def hasmath = true
 @def hascode = true
 
-hello this is Rahul Kusuma
-## table of contents
-\toc
 
-## contact
-## projects
-## github
+# @RahulKusuma
+
+
+  # contact            /               projects       /                                github
+
 
 
 <!--# Franklin syntax sandbox
