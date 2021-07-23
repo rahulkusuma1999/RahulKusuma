@@ -1,14 +1,16 @@
-@def title = "Rahul Kusuma"
+@def title = ""
 @def hasmath = true
 @def hascode = true
 
 
-# @RahulKusuma
+@RahulKusuma
 
 
   # contact            /               projects       /                                github
 
-this is new
+
+
+This is Rahul Kusuma
 
 
 <!--# Franklin syntax sandbox
