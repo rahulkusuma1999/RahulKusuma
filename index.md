@@ -9,9 +9,10 @@
   # contact            /               projects       /                                github
 
 
+                   This is Rahul Kusuma
+    datascience.machine learning,deep learning           
 
-This is Rahul Kusuma
-
+  ![Rahulkusuma] (/assets/IMG_20180812_135526.jpg)
 
 <!--# Franklin syntax sandbox
 

@@ -5,7 +5,15 @@
 html {
     font-family: Helvetica, Arial, sans-serif;
     font-size  : 17px;
-    color: #1c1c1c;
+    color: #2a64da;
+}
+s{
+    color: aqua;
+}
+
+img{
+    height:10cm;
+    width: 4cm;
 }
 
 /* ==================================================================
