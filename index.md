@@ -1,6 +1,3 @@
-@def title = ""
-@def hasmath = true
-@def hascode = true
 
 
 @RahulKusuma
@@ -9,7 +6,7 @@
 # home 
 Hi there!
 Rahul Kusuma
-datascience.machine learningdeep learning    
+datascience . machine learning . deep learning    
 
 
 ![Rahulkusuma] (/assets/IMG_20180812_135526.jpg)
