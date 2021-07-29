@@ -5,7 +5,8 @@
 html {
     font-family: Helvetica, Arial, sans-serif;
     font-size  : 17px;
-    color: #2a64da;
+    color:rgb(10, 58, 112);
+    background-color: whitesmoke;
 }
 s{
     color: aqua;

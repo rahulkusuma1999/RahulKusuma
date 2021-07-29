@@ -5,14 +5,28 @@
 
 @RahulKusuma
 
+\toc
+# home 
+Hi there!
+Rahul Kusuma
+datascience.machine learningdeep learning    
 
-  # contact            /               projects       /                                github
+
+![Rahulkusuma] (/assets/IMG_20180812_135526.jpg)
+# Contact 
+* Github
+* E-mail
+* LinkedIn
+# projects 
+ Machine With Julia
+ Handwritten digit recognition
+# About
+ I am a undergraduate in computer science from Pune University
+ 
 
 
-                   This is Rahul Kusuma
-    datascience.machine learning,deep learning           
 
-  ![Rahulkusuma] (/assets/IMG_20180812_135526.jpg)
+
 
 <!--# Franklin syntax sandbox
 
